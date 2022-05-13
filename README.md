@@ -2,7 +2,7 @@
 
 💻 Estudando front-end...
 
-- Estudante de análise e desenvolvimento de sistemas pela FMU. 
+- Cursando análise e desenvolvimento de sistemas pela FMU. 
 
 <div align="center">
   <a href="https://github.com/Sidivaldo">
