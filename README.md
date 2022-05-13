@@ -1,10 +1,8 @@
 ### Oi!! Eu sou o Sidivaldo 👋 🤓
 
+💻 Estudando front-end...
 
-
-- Estudante de análise e desenvolvimento de sistemas pela FMU 
- Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
-Espero que gostem dos conteúdos 😉
+- Estudante de análise e desenvolvimento de sistemas pela FMU. 
 
 <div align="center">
   <a href="https://github.com/Sidivaldo">
